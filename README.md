@@ -1,5 +1,5 @@
 <h1>Hi there 👋<br>
-I am Vivek Shah 💻</h1>
+I am Nikhil Ailani 💻</h1>
 
 <p >
   <a href="mailto:nikzz1310@gmail.com">Email</a> •
