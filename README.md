@@ -25,7 +25,7 @@ I am interested in data science, system design, image processing and machine lea
 ✍🏻 Git & GitHub<br>
 </b>
 
-### Have a look at : nikhilailani.online
+### Have a look at : nikhilailani.com
 
 ### Let's Get in touch
 <p >
