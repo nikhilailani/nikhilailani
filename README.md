@@ -22,15 +22,6 @@ Hello, I am Nikhil Ailani
 
 ![Nikhil's github stats](https://github-readme-stats.vercel.app/api/?username=nikhilailani&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
 
-### My Skills
-<b>
-✍🏻 Python<br>
-✍🏻 NodeJs<br>
-✍🏻 Java<br>
-✍🏻 CPP<br>
-✍🏻 Git & GitHub<br>
-</b>
-
 ### Have a look at : nikhilailani.com
 
 ### Let's Get in touch
