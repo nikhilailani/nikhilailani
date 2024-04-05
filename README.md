@@ -4,14 +4,14 @@
   <a href="mailto:nikzz1310@gmail.com">Email</a> •
   <a href="https://nikhilailani.online/">Website</a> •
   <a href="https://github.com/nikhilailani/">GitHub</a> •
-  <a href="https://www.linkedin.com/in/nikhil-ailani/">Linkedin</a>
+  <a href="https://www.linkedin.com/in/nikhil-ailani/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-patel-bb4868202" height="30" width="40" /></a>
 </p>
 
 
 Hello, I am Nikhil Ailani
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/nikhil-ailani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-patel-bb4868202" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikhil-ailani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-ailani" height="30" width="40" /></a>
 <a href="https://instagram.com/inikhilailani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inikhilailani" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nikzz1310" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nikzz1310" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nikhilailani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhilailani" height="30" width="40" /></a>
@@ -26,9 +26,5 @@ Hello, I am Nikhil Ailani
 
 ### Let's Get in touch
 <p >
-  <a href="mailto:nikzz1310@gmail.com">Email</a> •
-  <a href="https://nikhilailani.online/">Website</a> •
-  <a href="https://github.com/nikhilailani/">GitHub</a> •
-  <a href="https://www.linkedin.com/in/nikhil-ailani/">Linkedin</a> •
   <a href="https://twitter.com/Nikhil__Ailani">Twitter</a>
 </p>
