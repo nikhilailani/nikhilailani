@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Knowledge Graphs**
 
-- 📫 How to reach me **nikzz1310@gmail.com**
+- 📫 How to reach me **nailani@lakeheadu.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
