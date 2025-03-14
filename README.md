@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Ailani</h1>
-<h3 align="center">A passionate developer in Data Science</h3>
+<h3 align="center">Software Developer gradually moving towards Data Science </h3>
 
 - 🌱 I’m currently learning **Knowledge Graphs**
 
